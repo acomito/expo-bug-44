@@ -1,0 +1,3 @@
+- expo install @react-navigation/drawer
+- expo install react-native-reanimated
+- expo install react-native-gesture-handler
